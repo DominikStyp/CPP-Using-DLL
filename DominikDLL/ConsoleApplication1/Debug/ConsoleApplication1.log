@@ -1,0 +1,14 @@
+﻿Build started 2018-04-27 18:16:18.
+     1>Project "c:\Users\Dominik\documents\visual studio 2015\Projects\DominikDLL\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt useDLL.cpp
+         useDLL.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\dominik\documents\visual studio 2015\Projects\DominikDLL\Debug\UsingDLL.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\dominik\documents\visual studio 2015\Projects\DominikDLL\Debug\UsingDLL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\dominik\documents\visual studio 2015\Projects\DominikDLL\Debug\UsingDLL.lib" /MACHINE:X86 Debug\useDLL.obj
+     1>useDLL.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         ConsoleApplication1.vcxproj -> c:\users\dominik\documents\visual studio 2015\Projects\DominikDLL\Debug\UsingDLL.exe
+     1>Done Building Project "c:\Users\Dominik\documents\visual studio 2015\Projects\DominikDLL\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.70
